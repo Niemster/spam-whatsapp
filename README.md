@@ -1,2 +1,2 @@
-# spam-whatsapp
-Tools spam whatsapp
+bask spam-wa.sh
+
